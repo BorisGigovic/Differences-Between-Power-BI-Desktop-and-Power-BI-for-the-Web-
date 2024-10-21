@@ -39,7 +39,7 @@ Power BI for the Web, or Power BI Service, is a cloud-based platform that enable
 
 ### Data Transformation and Modeling 
 
-**Power BI Desktop: **
+**Power BI Desktop:**
 
 - Provides extensive data transformation capabilities using Power Query Editor. 
 
@@ -47,7 +47,7 @@ Power BI for the Web, or Power BI Service, is a cloud-based platform that enable
 
 - Supports the use of DAX for advanced calculations and measures. 
 
-**Power BI for the Web: **
+**Power BI for the Web:**
 
 - Limited data transformation capabilities; primarily used for viewing and sharing reports created in Power BI Desktop. 
 
